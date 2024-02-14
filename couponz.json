@@ -1,0 +1,14 @@
+{
+  "coupons": [
+    {"code": "SAVE20", "discount": 20, "expiry_date": "2024-03-31"},
+    {"code": "FREESHIP", "discount": 15, "expiry_date": "2024-04-15"},
+    {"code": "BOGO50", "discount": 50, "expiry_date": "2024-05-01"},
+    {"code": "FLASH25", "discount": 25, "expiry_date": "2024-06-30"},
+    {"code": "SUPER10", "discount": 10, "expiry_date": "2024-07-15"},
+    {"code": "WEEKEND30", "discount": 30, "expiry_date": "2024-08-31"},
+    {"code": "HOLIDAY40", "discount": 40, "expiry_date": "2024-09-15"},
+    {"code": "EXTRA5", "discount": 5, "expiry_date": "2024-10-31"},
+    {"code": "SPECIAL20", "discount": 20, "expiry_date": "2024-11-15"},
+    {"code": "VIP15", "discount": 15, "expiry_date": "2024-12-31"}
+  ]
+}
